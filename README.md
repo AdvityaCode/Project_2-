@@ -18,7 +18,7 @@ All system behaviors were tested thoroughly, and all functionalities passed as e
 | Specification | Test Result | Comment |
 |--------------|------------|---------|
 | Display "Welcome to enhanced alarm system model 218-W25" when the driver sits down. | Pass | Message displayed successfully. |
-| Enable engine start (light the green LED) when both seats are occupied and seatbelts fastened. Otherwise, print appropriate error messages. | Pass | All error messages display correctly. |
+| Enable engine start (light the green LED) when both seats are occupied and seatbelts fastened. Otherwise, print appropriate error messages. | Pass | Ignition Enabled printed if ignitionLED is lit. All error messages display correctly otherwise. |
 | Start the engine (light the blue LED, turn off Green) when ignition is enabled and ignition button is pressed. | Pass | Engine starts as expected. |
 | Keep the engine running even if the driver/passenger unfastens seatbelt or exits. | Pass | Engine continues running despite seatbelt removal. |
 | Stop the engine when the ignition button is pushed and released while running. | Pass | Engine stops as expected. |
