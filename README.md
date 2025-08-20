@@ -1,9 +1,9 @@
-# Automatic Headlight Control System
+# 🚘 Automatic Headlight Control System
 
 ## Team Members
 Emma Valente and Advitya Singh
 
-## Project Description
+## 🔦 Project Description
 The Automatic Headlight Control System enhances vehicle safety by automating headlight operation based on ambient lighting conditions. 
 The system integrates with the Driver’s Education Car Alarm System to ensure proper ignition procedures while providing an automated lighting solution. 
 The ignition system ensures that the vehicle starts only when both occupants are seated and belted. 
@@ -11,7 +11,7 @@ The headlight system automatically turns headlights on or off depending on envir
 
 Project 1 repository that Project 2 was built upon: https://github.com/AdvityaCode/Project1
 
-## Testing Summary
+## 📝 Testing Summary
 All system behaviors were tested thoroughly, and all functionalities passed as expected. The table below summarizes the test results for both subsystems.
 
 ### Ignition Subsystem
@@ -33,7 +33,7 @@ All system behaviors were tested thoroughly, and all functionalities passed as e
 | Maintain previous headlight state when ambient light is between daylight and dusk levels. | Pass | System correctly holds the last state. |
 | Turn off all headlights when the engine is turned off. | Pass | Headlights turn off as expected. |
 
-## Notes
+## 🛠️ Notes
 - All features were successfully implemented, and no issues were encountered during testing.
 - The system meets all functional requirements and operates as intended.
 - Test delays for headlight automation were verified using a mobile timer.
