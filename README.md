@@ -1,4 +1,4 @@
-# 🚘 Automatic Headlight Control System
+# 🚘 Automatic Headlight Control System - Embedded NUCLEO Board C/C++ Microcontroller Project
 
 ## Team Members
 Emma Valente and Advitya Singh
